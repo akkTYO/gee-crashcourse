@@ -4,7 +4,7 @@ Udemy 講座「Remote Sensing with Google Earth Engine Crash Course」
 で作成した練習用スクリプト置き場です。
 
 ## Reference links
-* Udemy course: [Remote Sensing with Google Earth Engine Crash Course](https://www.udemy.com/course/google-earth-engine-crash-course/)
+* Udemy course: [Remote Sensing with Google Earth Engine Crash Course](https://www.udemy.com/course/google-earth-engine-for-beginners/)
 
 ## ファイル一覧
 | ファイル | 内容 |

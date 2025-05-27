@@ -3,6 +3,11 @@
 Small scripts I wrote while taking the Udemy course  
 “Remote Sensing with Google Earth Engine Crash Course”.
 
+## Reference links
+* Udemy course: [Remote Sensing with Google Earth Engine Crash Course](https://www.udemy.com/course/google-earth-engine-crash-course/)
+
+
+
 ## Files
 | file | what it does |
 |------|--------------|
